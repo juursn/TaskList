@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+#root,
+body,
+html {
+	height: 100vh;
+}
+
+body {
+	font-family:
+		"Raleway" "Franklin Gothic Medium",
+		"Arial Narrow",
+		Arial,
+		sans-serif;
+}
